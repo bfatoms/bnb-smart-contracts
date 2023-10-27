@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "rand",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_rand",
+						"type": "uint256"
+					}
+				],
+				"name": "setRand",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/19_exercise_checkpoint.sol": "Oracle"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/19_exercise_checkpoint.sol": {
+			"keccak256": "0x313ac23a3a4f42691f0461fdee5519f1ae072a8d8928f5b2f7b716c6c1695317",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://170fea90b4dee2143115d1e16aa43d7fe0d71c223637f403e7487f750bbd3bec",
+				"dweb:/ipfs/QmdqPgrVNSfDn3ydeb5wFgGAdYmSg49KbmxMS2nWJDwGPt"
+			]
+		}
+	},
+	"version": 1
+}

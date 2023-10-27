@@ -1,0 +1,62 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_name",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_age",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/7_constructors.sol": "Constructors"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/7_constructors.sol": {
+			"keccak256": "0xce0e37fbc080bb5c077f90955d754b240e5399ac183fe9f63df56cce567416b3",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://683f0b97094670963cb9785478193bae2737bd21e0db0d49d800374f3fc7eb53",
+				"dweb:/ipfs/QmdadTiJbJ1haXhsHV1uHtC8HucsATEiZyN9FEDM3D3Rf7"
+			]
+		}
+	},
+	"version": 1
+}

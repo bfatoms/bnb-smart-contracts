@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/19_exercise_checkpoint.sol": "Oracles"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/19_exercise_checkpoint.sol": {
+			"keccak256": "0x23eff2ac3deca6d3d0dd13765a0d9a08d4297898090c72263a7ae7648880d047",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://35117e79b862ba3aaf48bcf85cf3425889cd29c3734c59c75f89f4f8d4a1e26f",
+				"dweb:/ipfs/QmSZGs4bBZGaSGzSo2XacfZi3JvnNcCtPNELBRgNtd9wgJ"
+			]
+		}
+	},
+	"version": 1
+}

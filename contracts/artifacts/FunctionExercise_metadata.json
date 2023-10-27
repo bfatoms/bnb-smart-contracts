@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "b",
+						"type": "uint256"
+					}
+				],
+				"name": "multiply",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/3_function_exercise.sol": "FunctionExercise"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/3_function_exercise.sol": {
+			"keccak256": "0x68393e10d78dbd17c75492668fc9503c9a85e9dd068fd35053db2b76c5c3531c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://14b77c4967f550bb382883498f02140daa86f1614ceae772afd9620d33934eab",
+				"dweb:/ipfs/QmYt7jNLw1hugJLfgxfpxHDVUuxkKrZhPBBSnAGwrTnY7S"
+			]
+		}
+	},
+	"version": 1
+}

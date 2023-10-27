@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "test",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/14_function_modifiers.sol": "LearnBits"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/14_function_modifiers.sol": {
+			"keccak256": "0x78215929db122f2bda228e4fbb611c3816ab96d700d2e0f48497d2a77e6ebb41",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a222403b679029e3570b1267e6deb1774036344458a984d9a32e54ea7112e9f1",
+				"dweb:/ipfs/Qmbm83E6w4b68EnJX3s1aMXi8okVvwrBjMDmqiH6WqSGqr"
+			]
+		}
+	},
+	"version": 1
+}

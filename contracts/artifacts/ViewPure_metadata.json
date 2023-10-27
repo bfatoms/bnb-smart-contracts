@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "addValue",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "multiply",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/16_fallback.sol": "ViewPure"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/16_fallback.sol": {
+			"keccak256": "0xd455fc7e358a8eaec5ec0708b6eaaa2bdb1e17ec28b8ae705de1e5e97caefc98",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e5ca0a7b73560878ac337e6117fc652b13ac2de3360c600e4f0242607ba9a6e7",
+				"dweb:/ipfs/QmWfkgJAN4pte81Lw2siDmEjSp1p91kKA7DbH8UegAZjbS"
+			]
+		}
+	},
+	"version": 1
+}

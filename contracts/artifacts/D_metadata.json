@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "readInfo",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/22_entrance_exam.sol": "D"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/22_entrance_exam.sol": {
+			"keccak256": "0x657a1fb304959116195e155576e5a852b24fbb8fd3fcc35b2200beb8de0c4821",
+			"license": "GP-3",
+			"urls": [
+				"bzz-raw://712bcffad4b2ee4bd8c8c48c78fc8a13e8383447561d85ab5855fdd400a7d482",
+				"dweb:/ipfs/QmXskZ6pPTQuaKRkJBH98QkC9qBd5VMi2shcWWRGxy73zy"
+			]
+		}
+	},
+	"version": 1
+}
